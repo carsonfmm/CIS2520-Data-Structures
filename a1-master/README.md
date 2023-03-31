@@ -1,4 +1,4 @@
-Name: Carson Mifsud
+
 Date: Tuesday, September 22, 2020
 Program description: This program contains a small C librar that manipulates
 pointer, bits and bytes.
