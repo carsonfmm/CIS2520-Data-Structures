@@ -1,4 +1,4 @@
-Name: Carson Mifsud
+
 Date: Monday, October 26, 2020
 Program description: This program contains a collection of C functions that operate on ordered binary trees.
 
