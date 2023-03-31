@@ -1,4 +1,4 @@
-Name: Carson Mifsud
+
 Date: Tuesday, November 17, 2020
 Program Description: This collection of files is a small database system,
 		     consisting of 4 programs. These .c programs use hash
