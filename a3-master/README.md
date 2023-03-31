@@ -1,4 +1,4 @@
-Name: Carson Mifsud
+
 Date: Tuesday, October 13, 2020
 Program description: This program contains a collection of C functions that operate on linked lists.
 
