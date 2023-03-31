@@ -1,4 +1,4 @@
-Name: Carson Mifsud
+
 Date: Wednesday, September 30, 2020
 Program description: This program contains a collection of C functions that operate like arrays.
 
