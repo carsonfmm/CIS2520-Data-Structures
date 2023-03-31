@@ -1,4 +1,4 @@
-Name: Carson Mifsud
+
 Date: Thursday, November 26, 2020
 Program Description: A collection of functions which work with a hash-table and a graph data
                      structure to simulate an unbeatable game of tic-tac-toe.
